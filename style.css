@@ -102,8 +102,5 @@ body {
 @media(max-width:520px){
     .container{
         height: 100vh;
-    }
-    .map-details {
-        /* height: auto; */
-    }
+    }   
 }
