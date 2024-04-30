@@ -103,4 +103,7 @@ body {
     .container{
         height: 100vh;
     }   
+    .map-details {
+        height: 100%;
+    }
 }
